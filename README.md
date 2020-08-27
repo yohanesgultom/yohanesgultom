@@ -7,7 +7,7 @@ I'm a human, a back-end developer, and an AI & blockchain enthusiast
 - 🧺 BitBucket https://bitbucket.org/yohanesgultom/
 - 💼 [Hire me on Upwork](https://www.upwork.com/o/profiles/users/~010ed570be4d0e9a57/)
 
-> 💡 Please refresh the page if you see broken images icon. It's hosted on free Heroku 😉
+> 💡 Please **refresh the page several times** if you see broken images icon. It's hosted on **free** Heroku (yes, I'm cheapskate) 😉
 
 <img src="https://badge-generator-yohanes.herokuapp.com/github/yohanesgultom/top-forks?top=7" alt="top-forks" height="200">
 
