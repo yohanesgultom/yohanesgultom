@@ -7,7 +7,11 @@ I'm a human, a back-end developer, and an AI & blockchain enthusiast
 - 🧺 BitBucket https://bitbucket.org/yohanesgultom/
 - 💼 [Hire me on Upwork](https://www.upwork.com/o/profiles/users/~010ed570be4d0e9a57/)
 
-### Repo statistics
+<br>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanesgultom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Statistics
 
 > 🚀 Generated with [Badge Generator](https://github.com/yohanesgultom/badge-generator)
 
