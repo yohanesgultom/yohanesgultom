@@ -11,9 +11,9 @@ I'm a human, a back-end developer, and an AI & blockchain enthusiast
 
 > 🚀 Generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohanesgultom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-yohanesgultom.vercel.app/api?username=yohanesgultom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanesgultom&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=yohanesgultom&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats)
 
 > 🚀 Generated with [Badge Generator](https://github.com/yohanesgultom/badge-generator)
 
