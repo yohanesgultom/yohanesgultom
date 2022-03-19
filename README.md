@@ -9,16 +9,10 @@ I'm a human, a back-end developer, and an AI & blockchain enthusiast
 
 ### Statistics
 
-> 🚀 Generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-yohanesgultom.vercel.app/api?username=yohanesgultom&show_icons=true&theme=tokyonight)](https://github.com/yohanesgultom/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats-yohanesgultom.vercel.app/api?username=yohanesgultom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=yohanesgultom&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,tex)](https://github.com/yohanesgultom/github-readme-stats)
 
-[![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=yohanesgultom&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Top Starred Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=yohanesgultom&repo_count=7&theme=tokyonight)](https://github.com/yohanesgultom/github-readme-stats)
 
-> 🚀 Generated with [Badge Generator](https://github.com/yohanesgultom/badge-generator)
-
-<img src="https://badge-generator-yohanes.herokuapp.com/github/yohanesgultom/top-forks?top=10" alt="top-forks" width="100%">
-
-<img src="https://badge-generator-yohanes.herokuapp.com/github/yohanesgultom/top-stars?top=10" alt="top-stars" width="100%">
-
-> 🔄 Refresh few times if you see broken images icon
+[![GitHub Top Forked Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=yohanesgultom&repo_count=7&theme=tokyonight)](https://github.com/yohanesgultom/github-readme-stats)
