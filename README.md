@@ -1,11 +1,13 @@
 ## Hi there, I'm Yohanes 👋
 
-I'm a human, a back-end developer, and an AI & blockchain enthusiast
+![web](https://img.shields.io/static/v1?logo=wordpress&logoColor=white&label=web&message=yohanes.gultom.id&color=blue&link=https://yohanes.gultom.id)
+![bitbucket](https://img.shields.io/static/v1?logo=bitbucket&logoColor=white&label=bitbucket&message=yohanesgultom&color=blue&link=https://bitbucket.org/yohanesgultom/)
+![gitlab](https://img.shields.io/static/v1?logo=gitlab&logoColor=white&label=gitlab&message=yohanesgultom&color=orange&link=http://gitlab.com/yohanesgultom)
+![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/1862500?label=stackoverflow&logo=stackoverflow&style=flat)
+![twitter](https://img.shields.io/twitter/follow/yohanesgultom?color=blue&logo=twitter&style=flat)
+![upwork](https://img.shields.io/static/v1?logo=upwork&logoColor=white&label=&message=upwork&color=green&link=https://yohanes.gultom.id/upwork)
 
-- 🌎 Blog https://yohanes.gultom.id
-- ⚗️ Gitlab http://gitlab.com/yohanesgultom
-- 🧺 BitBucket https://bitbucket.org/yohanesgultom/
-- 💼 [Hire me on Upwork](https://www.upwork.com/o/profiles/users/~010ed570be4d0e9a57/)
+I'm a human, a back-end developer, and an AI & blockchain enthusiast
 
 ### Statistics
 
