@@ -9,12 +9,58 @@
 
 I'm a human, a back-end developer, and an AI & blockchain enthusiast
 
-### Statistics
+#### Statistics 📈 
 
-![GitHub Stats](https://github-readme-stats-yohanesgultom.vercel.app/api?username=yohanesgultom&show_icons=true&theme=tokyonight)
+<picture>
+  <source 
+    srcset="https://github-readme-stats-yohanesgultom.vercel.app/api?username=yohanesgultom&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-yohanesgultom.vercel.app/api?username=yohanesgultom&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-yohanesgultom.vercel.app/api?username=yohanesgultom&show_icons=true" />
+</picture>
 
-![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=yohanesgultom&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,tex)
+<br />
 
-![GitHub Top Starred Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=yohanesgultom&repo_count=7&theme=tokyonight)
+<picture>
+  <source 
+    srcset="https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=yohanesgultom&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,tex"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=yohanesgultom&layout=compact&langs_count=10&hide=html,css,tex"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=yohanesgultom&layout=compact&langs_count=10&hide=html,css,tex" />
+</picture>
 
-![GitHub Top Forked Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=yohanesgultom&repo_count=7&theme=tokyonight)
+<br />
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=yohanesgultom&repo_count=7&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=yohanesgultom&repo_count=7"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=yohanesgultom&repo_count=7" />
+</picture>
+
+<br />
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=yohanesgultom&repo_count=7&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=yohanesgultom&repo_count=7"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=yohanesgultom&repo_count=7" />
+</picture>
