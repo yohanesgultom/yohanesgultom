@@ -7,7 +7,7 @@
 ![twitter](https://img.shields.io/twitter/follow/yohanesgultom?color=blue&logo=twitter&style=flat&link=https://twitter.com/yohanesgultom)
 ![upwork](https://img.shields.io/static/v1?logo=upwork&logoColor=white&label=&message=upwork&color=green&link=https://yohanes.gultom.id/upwork)
 
-I'm a human, a back-end developer, and an AI & blockchain enthusiast
+I'm a human (but loves dogs!), a back-end developer, and an AI & blockchain enthusiast
 
 #### Statistics 📈 
 
